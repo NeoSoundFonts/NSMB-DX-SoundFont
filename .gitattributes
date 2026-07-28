@@ -4,6 +4,7 @@
 
 *.sf2 binary
 *.fxp binary
+*.syx binary
 *.omp binary
 *.wav binary
 *.flac binary
